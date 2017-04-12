@@ -1,0 +1,20 @@
+/*九宫格*/
+body{
+	margin:0px;
+	padding:0px;
+}
+.kuang {
+	width:100%;
+	margin:0 auto;
+	padding:2% 0 0 2%;
+}
+
+.ge {
+	width:30%;
+	padding-top:30%;
+	border:1px solid orange;
+	border-radius:10%;
+	margin:0% 2% 2% 0;
+	float:left;
+	background-color:orange;
+}
